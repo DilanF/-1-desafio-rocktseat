@@ -1,6 +1,6 @@
 # 1º Desafio do explorer Rocketseat
 
-![preview](./.github/preview.png)
+![preview](./images/preview.png)
 
 O primeiro desafio da trilha explorer da Rocketseat
 
