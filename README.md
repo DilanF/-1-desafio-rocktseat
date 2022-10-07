@@ -1,10 +1,11 @@
-# 1º Desafio do explorer Rocketseat
+# Corrigindo Bugs-1
 
 ![preview](./images/preview.png)
 
-O primeiro desafio da trilha explorer da Rocketseat
+1º Desafio da trilha Explorar da Rocketseat.
+Aprendemos sobre conceitos básicos de HTML e CSS.
 
-[🔗 Clique aqui para acessar](https://dilanferrari.github.io/1-desafio-rocktseat/)
+[🔗 Clique aqui para acessar](https://dilanferrari.github.io/corrigindo-bugs-1/)
 
 ## 🖥️ Tecnologias
 
